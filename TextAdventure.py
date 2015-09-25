@@ -1,7 +1,7 @@
 print("----------121COM Week 2 Lab Exercise 7----------")
 print("----------------<InsertTitleHere>---------------")
 print("---------------<InsertAuthorsHere>--------------")
-print("\n\n")
+print("\n")
 
 print("You awake in a dark room.  Do you:")
 print("a) Scream for help.")
